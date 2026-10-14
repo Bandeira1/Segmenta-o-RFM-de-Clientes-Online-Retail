@@ -2,7 +2,7 @@
 
 Segmentação de clientes pela técnica **RFM** (Recência, Frequência e Valor) em uma varejista online do Reino Unido, com pipeline completo em **Python → MySQL → Power BI**.
 
-![Dashboard RFM](dashboard.png)
+![Dashboard RFM](Dashboard.png)
 
 ## Problema de negócio
 
